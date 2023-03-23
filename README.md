@@ -1,1 +1,1 @@
-# azure-boot-app
+# spring-azure-demo
